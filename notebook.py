@@ -1,6 +1,6 @@
 # Code was taken from the second edition of 
 # Python 3 Object-oriented Programming by Dusty Phillips
-from notebook2 import Note
+from note import Note
 
 class Notebook:
     '''Represent a collection of notes that can be tagged,
