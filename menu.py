@@ -1,7 +1,7 @@
 # Code was taken from the second edition of 
 # Python 3 Object-oriented Programming by Dusty Phillips
 from notebook import Notebook
-from notebook2 import Note
+from note import Note
 
 class Menu:
     '''Display a menu and respond to choices when run.'''
